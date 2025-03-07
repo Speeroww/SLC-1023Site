@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Aivan Vil Reniel Alayon 4404997 Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~. Aivan Vil Reniel Alayon 4404997
 
 [Link to another page](./another-page.html).
 
